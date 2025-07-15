@@ -72,4 +72,4 @@ git clone https://github.com/MuhammadJawadSaeed/Fylla-Studio-Section-Clone.git
 
 ## Connect With Me
 
-- 🔗 LinkedIn: [Muhammad Jawad Saeed](linkedin.com/in/muhammad-jawad-saeed-967b87368)
+- LinkedIn: <a href="https://www.linkedin.com/in/muhammad-jawad-saeed-967b87368" target="_blank" rel="noopener noreferrer">Muhammad Jawad Saeed</a>
