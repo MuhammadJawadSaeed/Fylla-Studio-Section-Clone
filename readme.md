@@ -50,7 +50,7 @@ This project focuses on recreating the Studio section layout of the Fylla websit
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/fylla-studio-clone.git
+git clone https://github.com/MuhammadJawadSaeed/Fylla-Studio-Section-Clone.git
 ```
 
 2. Open the HTML file in your browser:
